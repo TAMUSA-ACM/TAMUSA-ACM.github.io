@@ -1,4 +1,4 @@
-#### [Home](https://tamusa-acm.github.io/) [Learn](https://tamusa-acm.github.io/learn/)
+#### [[Home](https://tamusa-acm.github.io/)] [Learn](https://tamusa-acm.github.io/learn/)
 
 # ACM's Page of Recommended Learning!
 
