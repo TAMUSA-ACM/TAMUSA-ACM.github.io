@@ -1,0 +1,77 @@
+++++++++++++++++++++
++ Vagrant Workshop +
+++++++++++++++++++++
+
+# Author: David Velez
+# Date: 01/29/2019
+
+Why Vagrant?
+-------------
+* Reference: https://www.vagrantup.com/intro/index.html
+* Vagrant provides easy to configure, reproducible, and portable work environments built on top of industry-standard technology and controlled by a single consistent workflow to help maximize the productivity and flexibility of you and your team.
+* Vagrant works out of the box with support for VirtualBox, Hyper-V, and Docker, and even VMware, which is generally more stable and better performer than VBox.
+
+
+Vagrant vs Docker
+------------------
+* Reference: https://www.vagrantup.com/intro/vs/docker.html
+* Vagrant is a tool focused on providing a consistent development environment workflow across multiple operating systems. Docker is a container management that can consistently run software as long as a containerization system exists.
+* Containers are generally more lightweight than virtual machines, so starting and stopping containers is extremely fast. Docker uses the native containerization functionality on macOS, Linux, and Windows. (Docker lacks support for certain operating systems such as BSD)
+
+
+Documentation
+----------------
+* Installation: https://www.vagrantup.com/docs/installation/
+
+
+Useful Vagrant specific commands
+----------------------------------
+https://www.vagrantup.com/docs/cli/
+
+
+Workshop Steps
+-----------------
+- First, open up powershell in adminstrator mode
+- vagrant box list - Shows your installed boxes
+- vagrant box add <ADDRESS> - Installs your box of choice, URL here for the addresses
+> vagrant box add scotch/box - Installs a dead-simple local LAMP (Linux, apache, mysql, php) stack for developers
+- NOTE: you can also git clone it, details on Scotch Box site: https://box.scotch.io/
+> cd my_project
+> vagrant up - creates and configures the machine
+> vagrant ssh - ssh into the box
+- Open up separate terminal and see the status
+> vagrant global-status - shows the status of all active Vagrant environments
+> vagrant halt - shuts down the running machine Vagrant is managing (has a force argument: vagrant halt -f)
+> vagrant destroy - stops the running machine and destroys all resources that were created during the machine creation process (has a force argument: vagrant desctroy -f)
+
+
+Alternate Way to Prep for setting up a virtual machine
+--------------------------------------------------------
+- This is an example using Ubuntu 12.04 (hashicorp/precise64)
+> mkdir ubuntu
+> cd ubuntu
+> vagrant init hashicorp/precise64 - This creates a vagrant file with a config that will call down Ubuntu 12.04 if you use vagrant up
+> vagrant up
+> vagrant ssh
+
+Other useful commands
+-----------------------
+> vagrant prune - removes old versions of installed boxese
+> vagrant prune --dry-run - if you want to do a dry run of prune (prints a list of boxes that would be removed)
+> vagrant box updates (updates boxes)
+> vagrant reload [id] - You can get a list of ids from running vagrant global-status, this command is the equivalent of vagrant halt followed by a vagrant up
+> vagrant suspend [id] - Suspends the machine instead of shutting it down
+> vagrant resume [id] - Resumes a suspended machine
+
+Running Scripts
+----------------
+- NOTE: This is all within the Vagrantfile
+> config.vm.provision :shell, path: "setup.sh" - runs once after doing a vagrant init followed up by a vagrant up
+> config.vm.provision :shell, path: "run-after-each-up.sh", run: "always", privileged: true
+
+Networking
+------------
+- NOTE: This is all within the Vagrantfile
+> config vm.network "public_network" - puts your virtual box unto the public network
+> config.vm.network "public_network", ip: "192.168.0.27" - statically assigns an ip address to  your virtualbox (make sure that you are on the same subnet as the dhcp server)
+
