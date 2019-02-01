@@ -1,8 +1,8 @@
 #### [Home](https://tamusa-acm.github.io/) [[Learn](https://tamusa-acm.github.io/learn/)]
 
-Welcome to our learning page. This page is a list of recommended resources, materials and tools to learn from! In order to be effectivfe in the real world, one must train constantly. Technology is constantly changing, coding languages change, libraries are added, tools are modified, packages are deprecated, and system interfaces are updated. The point is, things change, and with it, so do we.
-
 # ACM's Page of Recommended Learning!
+
+Welcome to our learning page. This page is a list of recommended resources, materials and tools to learn from! In order to be effectivfe in the real world, one must train constantly. Technology is constantly changing, coding languages change, libraries are added, tools are modified, packages are deprecated, and system interfaces are updated. The point is, things change, and with it, so do we.
 
 ## Learning Code
 - [HackerRank](https://www.hackerrank.com/) - Amazon, Dropbox, and other big companies use this for internship challenges
