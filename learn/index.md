@@ -13,3 +13,8 @@
 ### Podcasts
 - [Talk Python to Me](https://talkpython.fm/) - Michael Kennedy's Podcast covering all things Python!
    - **NOTE:** Using Google Podcast App is beneficial here as you can speed up playback
+
+### Useful Tools to Know
+- [Vagrant](https://www.vagrantup.com/) - Vagrant is a trusted tool for building managing virtual environments
+   - 
+   - **NOTE:** You will need VirtualBox, Docker, and VMware
