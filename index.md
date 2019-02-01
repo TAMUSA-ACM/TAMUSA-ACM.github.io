@@ -1,4 +1,4 @@
-#### [Home](https://tamusa-acm.github.io/) [Learn](https://tamusa-acm.github.io/Learn)
+#### [Home](https://tamusa-acm.github.io/) [Learn](https://tamusa-acm.github.io/learn/)
 
 # Welcome to TAMUSA's ACM Student Chapter GitHub Page!!
 
