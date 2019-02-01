@@ -2,7 +2,7 @@
 
 Hello folks!
 
-This GitHub is part of an initiative of the ACM Student Chapter @ Texas A&M University-San Antonio (TAMUSA) to get students involved in coding, development, cyber security, and more! All are welcome to follow us and learn to code!
+This GitHub is part of an initiative of the ACM Student Chapter @ [Texas A&M University-San Antonio (TAMUSA)](http://www.tamusa.edu/) to get students involved in coding, development, cyber security, and more! All are welcome to follow us and learn to code!
 
 ## Who are we?
 
@@ -13,6 +13,10 @@ The [ACM](https://www.acm.org/) is an international scientific and educational o
 - [Facebook](https://www.facebook.com/ACM.TAMUSA)
 - [Instagram](https://www.instagram.com/acm.tamusa)
 - [Twitter](https://twitter.com/acm_tamusa)
+
+## What is our mission?
+
+Our mission is to facilitate and disseminate information technology and cyber security knowledge and hands-on training to the students of TAMUSA. In the world of IT, a more practical approach to teaching is necessary that extends the foundation of education in classrooms, and to spread awareness of the changing forces in the real world to club members. Our goal is to disciple students, create a diverse environment, and empower students to possess powerful skill-sets. We hope that this organization will impact students in a positive way that will leave them prepared for the industry, whatever that path is.
 
 ### Markdown
 
