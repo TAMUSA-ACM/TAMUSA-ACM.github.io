@@ -16,5 +16,5 @@
 
 ### Useful Tools to Know
 - [Vagrant](https://www.vagrantup.com/) - Vagrant is a trusted tool for building managing virtual environments
-   - 
+   - [ACM Workshop Notes](https://github.com/TAMUSA-ACM/TAMUSA-ACM.github.io/blob/master/learn/Vagrant_Notes.txt)
    - **NOTE:** You will need VirtualBox, Docker, and VMware
