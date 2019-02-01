@@ -11,6 +11,14 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 ## Ethical Hacking
 - [HackTheBox](https://www.hackthebox.eu/) - Great Pen-Testing Labs!
 - [VulnHub](https://www.vulnhub.com/) - Has many vulnerable environments as well as walkthroughs to help you understand how to exploit them!
+- [OverTheWire: Bandit](http://overthewire.org/wargames/bandit/) - The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
+
+## Python
+- [Learn Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Python tutorial for beginners!
+- [Sololearn Python](https://www.sololearn.com/Course/Python/) - Python course for beginners!
+
+## Docker
+- [Docker Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc) - Docker tutorials for beginners!
 
 ## Podcasts
 - [Talk Python to Me](https://talkpython.fm/) - Michael Kennedy's Podcast covering all things Python!
