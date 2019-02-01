@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to TAMUSA's ACM Student Chapter GitHub Page!!
 
-You can use the [editor on GitHub](https://github.com/TAMUSA-ACM/TAMUSA-ACM.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello folks!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This GitHub is part of an initiative of the ACM Student Chapter @ Texas A&M University-San Antonio (TAMUSA) to get students involved in coding, development, cyber security, and more! All are welcome to follow us and learn to code!
+
+## Who are we?
+
+The [ACM](https://www.acm.org/) is an international scientific and educational organization dedicated to advancing the art, science, engineering, and application of information technology, serving both professional and public interests by fostering the open interchange of information and by promoting the highest professional and ethical standards. The organization will provide unique opportunities for networking, mentoring, and lifelong learning over common interests that support both within the institution and to local and global communities. The educational and scientific purposes of this organization is to promote an increased knowledge of and greater interest in the science, design, development, construction, languages, management and applications of modern computing, greater interest in computing and its applications, and a means of communication between persons having an interest in computing. The Chapter will serve students at Texas A&M University-San Antonio and other interested persons in the community. The Chapter is chartered by the ACM.
+
+## How do I connect?
+- [JagSync](https://jagsync.tamusa.edu/organization/texas-a-m-san-antonio-acm-student-chapter)
+- [Facebook](https://www.facebook.com/ACM.TAMUSA)
+- [Instagram](https://www.instagram.com/acm.tamusa)
+- [Twitter](https://twitter.com/acm_tamusa)
 
 ### Markdown
 
@@ -27,11 +37,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TAMUSA-ACM/TAMUSA-ACM.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
