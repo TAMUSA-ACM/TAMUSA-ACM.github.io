@@ -12,6 +12,11 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 - [HackTheBox](https://www.hackthebox.eu/) - Great Pen-Testing Labs!
 - [VulnHub](https://www.vulnhub.com/) - Has many vulnerable environments as well as walkthroughs to help you understand how to exploit them!
 
+## Books
+- [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) - Book written by a Software Engineer to help other Engineers master interviews including whiteboard interviews
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf) - Book that helps you understand the importance of clean code
+- [Code Simplicity](http://shop.oreilly.com/product/0636920022251.do) - Understanding how to simplify code makes it easier for code maintenance and readability, learn how!
+
 ## Podcasts
 - [Talk Python to Me](https://talkpython.fm/) - Michael Kennedy's Podcast covering all things Python!
    - **NOTE:** Using Google Podcast App is beneficial here as you can speed up playback
