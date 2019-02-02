@@ -16,6 +16,7 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) - Book written by a Software Engineer to help other Engineers master interviews including whiteboard interviews
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf) - Book that helps you understand the importance of clean code
 - [Code Simplicity](http://shop.oreilly.com/product/0636920022251.do) - Understanding how to simplify code makes it easier for code maintenance and readability, learn how!
+- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/) - This book is a requirement for many DevOps!
 
 ## Podcasts
 - [Talk Python to Me](https://talkpython.fm/) - Michael Kennedy's Podcast covering all things Python!
