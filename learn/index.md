@@ -10,7 +10,13 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 
 ## Ethical Hacking
 - [HackTheBox](https://www.hackthebox.eu/) - Great Pen-Testing Labs!
+- [OverTheWire](http://overthewire.org/wargames/) - Greate way to get started with the basics of you to learn and practice security concepts in the form of fun-filled games
+- [HighOnCoffee](https://highon.coffee/) - Penetration Testing && Security Research Blog!
 - [VulnHub](https://www.vulnhub.com/) - Has many vulnerable environments as well as walkthroughs to help you understand how to exploit them!
+
+## Linux
+- [LinuxZoo](https://linuxzoo.net/) - Great way to learn the basics of linux!
+- [CommandLineFu](https://www.commandlinefu.com/commands/browse) - Really good place to find useful command line commands!
 
 ## Books
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) - Book written by a Software Engineer to help other Engineers master interviews including whiteboard interviews
@@ -38,6 +44,7 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 #### // IDEs and Text Editors
 - [JetBrains Products](https://www.jetbrains.com/) - Professional Grade IDEs for many languages (PyCharm, IntelliJ, etc)
    - **NOTE:** Students get professional edition for free for a year! Click [here](https://www.jetbrains.com/student/)
+- [VSCode](https://code.visualstudio.com/) - Great IDE for Web Development and outstanding plugins!
 - [Sublime Text](https://www.sublimetext.com/) - Excellent text editor that is quick for coding
 - [VI/VIM](https://www.vim.org/) - A text editor built by developers for developers, a personal favorite that is implemented in many IDEs and environments, including most linux terminals, sublime, jetbrains products, etc
    - **NOTE**: The reason for vim's popularity is because of its command and editing capabilities, allowing a user to never touch their mouse while using powerful shortcuts for navigation and editting
@@ -45,3 +52,6 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 ## Sponsored Learning
 - [GitHub Developer Pack](https://education.github.com/pack) - Comes with a plethora of useful developer tools for free
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) - Want to be a certified cloud engineer? DevOps? Free education for students
+- [Linux Academy](https://linuxacademy.com/students) - For $80 per 3 months, you get access to TONS of materials from Linux, RedHat, Containerization, DevOps, and more!
+- [Udacity] - Outstanding Online Course Website that has a great material for various topics!
+- [Udemy] - Another Online Course Website that has cheap to free courses for various IT products!
