@@ -53,5 +53,5 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 - [GitHub Developer Pack](https://education.github.com/pack) - Comes with a plethora of useful developer tools for free
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) - Want to be a certified cloud engineer? DevOps? Free education for students
 - [Linux Academy](https://linuxacademy.com/students) - For $80 per 3 months, you get access to TONS of materials from Linux, RedHat, Containerization, DevOps, and more!
-- [Udacity] - Outstanding Online Course Website that has a great material for various topics!
-- [Udemy] - Another Online Course Website that has cheap to free courses for various IT products!
+- [Udacity](https://www.udacity.com/) - Outstanding Online Course Website that has a great material for various topics!
+- [Udemy](https://www.udemy.com/) - Another Online Course Website that has cheap to free courses for various IT products!
