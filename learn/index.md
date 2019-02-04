@@ -13,6 +13,14 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 - [OverTheWire](http://overthewire.org/wargames/) - Greate way to get started with the basics of you to learn and practice security concepts in the form of fun-filled games
 - [HighOnCoffee](https://highon.coffee/) - Penetration Testing && Security Research Blog!
 - [VulnHub](https://www.vulnhub.com/) - Has many vulnerable environments as well as walkthroughs to help you understand how to exploit them!
+- [OverTheWire: Bandit](http://overthewire.org/wargames/bandit/) - The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
+
+## Python
+- [Learn Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Python tutorial for beginners!
+- [Sololearn Python](https://www.sololearn.com/Course/Python/) - Python course for beginners!
+
+## Docker
+- [Docker Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc) - Docker tutorials for beginners!
 
 ## Linux
 - [LinuxZoo](https://linuxzoo.net/) - Great way to learn the basics of linux!
