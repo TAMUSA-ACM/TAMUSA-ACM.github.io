@@ -66,4 +66,4 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 - [Udemy](https://www.udemy.com/) - Another Online Course Website that has cheap to free courses for various IT products!
 
 ## Where to Purchase Books for Cheap
-- [https://www.humblebundle.com/] - HumbleBundle almost always has a collection of books that you can get for cheap. Keep your eyes peeled, some of the books we recommend sometimes show up!
+- [HumbleBundle](https://www.humblebundle.com/) - A great place to look. Almost always has a collection of books that you can get for cheap. Keep your eyes peeled, some of the books we recommend sometimes show up!
