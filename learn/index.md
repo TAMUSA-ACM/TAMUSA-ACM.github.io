@@ -16,7 +16,8 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 
 ## Python
 - [Learn Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Python tutorial for beginners!
-- [SoloLearn Python](https://www.sololearn.com/Course/Python/) - Python course for beginners!
+- [Learn Python 3 the Hard Way](https://learnpythonthehardway.org/) - Python Book for beginners that helps you learn Python Shell, understanding the *Pythonic* way of programming, and good tips
+- [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) - A more **advanced** book for Pythonic Programmers! Not for the faint of heart, but a good read also with some example code on [GitHub](https://github.com/fluentpython) from the author himself
 
 ## Docker
 - [Docker Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc) - Docker tutorials for beginners!
@@ -24,8 +25,9 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 ## Linux
 - [LinuxZoo](https://linuxzoo.net/) - Great way to learn the basics of linux!
 - [CommandLineFu](https://www.commandlinefu.com/commands/browse) - Really good place to find useful command line commands!
+- [Linux Bible](https://www.wiley.com/en-us/Linux+Bible%2C+9th+Edition-p-9781118999875) - Outstanding book that covers the majority of what you need to get started in Linux. The author is a RedHat Engineer that covers in detail different aspects of Linux to help with your development, systems engineering, and even some cloud computing
 
-## Books
+## Other Books
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) - Book written by a Software Engineer to help other Engineers master interviews including whiteboard interviews
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf) - Book that helps you understand the importance of clean code
 - [Code Simplicity](http://shop.oreilly.com/product/0636920022251.do) - Understanding how to simplify code makes it easier for code maintenance and readability, learn how!
@@ -62,3 +64,6 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 - [Linux Academy](https://linuxacademy.com/students) - For $80 per 3 months, you get access to TONS of materials from Linux, RedHat, Containerization, DevOps, and more!
 - [Udacity](https://www.udacity.com/) - Outstanding Online Course Website that has a great material for various topics!
 - [Udemy](https://www.udemy.com/) - Another Online Course Website that has cheap to free courses for various IT products!
+
+## Where to Purchase Books for Cheap
+- [https://www.humblebundle.com/] - HumbleBundle almost always has a collection of books that you can get for cheap. Keep your eyes peeled, some of the books we recommend sometimes show up!
