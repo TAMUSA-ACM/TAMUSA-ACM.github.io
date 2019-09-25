@@ -13,6 +13,7 @@ Welcome to our learning page. This page is a list of recommended resources, mate
 - [OverTheWire: Bandit](http://overthewire.org/wargames/bandit/) - The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 - [HighOnCoffee](https://highon.coffee/) - Penetration Testing && Security Research Blog!
 - [VulnHub](https://www.vulnhub.com/) - Has many vulnerable environments as well as walkthroughs to help you understand how to exploit them!
+- [Web Security Academy](https://portswigger.net/web-security) - Amazing free courses covering many topics including: SQL Injection, Cross-Site Scripting, Cross-Site Request Forgery and many more. Created by the authors of the Web Application Hackers Handbook and the developers of Burp Suite.
 
 ## Python
 - [Learn Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) - Python tutorial for beginners!
