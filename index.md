@@ -16,7 +16,7 @@ Our mission is to facilitate and disseminate information technology and cyber se
 
 ## How do I connect?
 
-- [JagSync](https://jagsync.tamusa.edu/organization/texas-a-m-san-antonio-acm-student-chapter)
+- [JagSync](https://jagsync.tamusa.edu/organization/acm)
 - [Facebook](https://www.facebook.com/ACM.TAMUSA)
 - [Instagram](https://www.instagram.com/acm.tamusa)
 - [Twitter](https://twitter.com/acm_tamusa)
